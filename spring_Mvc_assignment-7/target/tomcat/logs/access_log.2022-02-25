@@ -1,0 +1,14 @@
+0:0:0:0:0:0:0:1 - - [25/Feb/2022:15:14:38 +0530] "GET /springMvcAssignement/registration HTTP/1.1" 500 3458 http-bio-8080-exec-1 270
+0:0:0:0:0:0:0:1 - - [25/Feb/2022:15:15:06 +0530] "GET /springMvcAssignement/registration HTTP/1.1" 404 949 http-bio-8080-exec-2 2
+0:0:0:0:0:0:0:1 - - [25/Feb/2022:15:21:29 +0530] "GET /springMvcAssignement/registration HTTP/1.1" 500 3458 http-bio-8080-exec-1 267
+0:0:0:0:0:0:0:1 - - [25/Feb/2022:15:23:42 +0530] "GET /springMvcAssignement/registration HTTP/1.1" 500 3458 http-bio-8080-exec-1 287
+0:0:0:0:0:0:0:1 - - [25/Feb/2022:15:23:55 +0530] "GET /springMvcAssignement/registration HTTP/1.1" 404 949 http-bio-8080-exec-2 2
+0:0:0:0:0:0:0:1 - - [25/Feb/2022:15:24:00 +0530] "GET /springMvcAssignement/registration HTTP/1.1" 404 949 http-bio-8080-exec-4 2
+0:0:0:0:0:0:0:1 - - [25/Feb/2022:15:24:01 +0530] "GET /springMvcAssignement/registration HTTP/1.1" 404 949 http-bio-8080-exec-5 1
+0:0:0:0:0:0:0:1 - - [25/Feb/2022:15:24:19 +0530] "GET /springMvcAssignement/registration HTTP/1.1" 404 949 http-bio-8080-exec-6 2
+0:0:0:0:0:0:0:1 - - [25/Feb/2022:15:24:20 +0530] "GET /springMvcAssignement/registration HTTP/1.1" 404 949 http-bio-8080-exec-7 2
+0:0:0:0:0:0:0:1 - - [25/Feb/2022:16:14:05 +0530] "GET /springMvcAssignement HTTP/1.1" 302 - http-bio-8080-exec-1 0
+0:0:0:0:0:0:0:1 - - [25/Feb/2022:16:14:05 +0530] "GET /springMvcAssignement/ HTTP/1.1" 500 3458 http-bio-8080-exec-2 103
+0:0:0:0:0:0:0:1 - - [25/Feb/2022:16:14:05 +0530] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-3 0
+0:0:0:0:0:0:0:1 - - [25/Feb/2022:16:14:21 +0530] "GET /springMvcAssignement/registration HTTP/1.1" 404 949 http-bio-8080-exec-4 2
+0:0:0:0:0:0:0:1 - - [25/Feb/2022:16:17:00 +0530] "GET /springMvcAssignement/registration HTTP/1.1" 404 949 http-bio-8080-exec-6 2
